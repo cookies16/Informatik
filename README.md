@@ -1,4 +1,5 @@
 # Informatik
+![Screenshot (32)](https://user-images.githubusercontent.com/96227945/146333752-13a8a9ef-4eee-46dc-bc4a-2c2ef694834e.png)
 
 **Einleitung**
 
@@ -11,4 +12,6 @@ Das Ziel des Programms ist es, eine bestimmte Körpergrösse von cm in Foot umzu
 
 **Reflexion**
 
-Ich habe gelernt wie man  Programme programmiert, welche im Alltag nützlich sein könnten (Bsp. Notendurchschnittrechner, Trainingsplan und Zugfahrplan)
+Ich habe gelernt wie man  Programme programmiert, welche im Alltag nützlich sein könnten
+(Bsp. Notendurchschnittrechner, Trainingsplan und Zugfahrplan)
+
