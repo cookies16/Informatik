@@ -4,7 +4,7 @@
 
 Das Ziel des Programms ist es, eine bestimmte Körpergrösse von cm in Foot umzurechnen. Als erstes gibt man als Input eine Grösse in cm ein. Dann rechnet das Programm diese Grösse * den Umwandlungsfaktor von 0.032808. Und der Output ist dann, die Grösse in Foot.
 
-**Features*
+**Features**
 - Variabeln
 - Input
 - output
